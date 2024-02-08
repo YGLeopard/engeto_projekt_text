@@ -2,7 +2,7 @@
 
 #author: Jiří Knotek
 #email: jiriknotek42@gmail.com
-#discord: 
+#discord: jirka420666
 
 import re
 
